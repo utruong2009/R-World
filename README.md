@@ -1,2 +1,2 @@
 # R-World
-repo for R-related codes
+repo for R-related codes.
